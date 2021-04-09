@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.sql.SQLOutput;
 
 // Приветствовать любого пользователя при вводе его имени через командную строку.
 public class MainTask1 {
